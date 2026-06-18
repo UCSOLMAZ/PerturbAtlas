@@ -89,7 +89,7 @@ opaque machine-learning predictions.
                                       with strong influence.
 
   Fully interpretable                 No black-box inference.
-  -----------------------------------------------------------------------
+
 
 ------------------------------------------------------------------------
 
