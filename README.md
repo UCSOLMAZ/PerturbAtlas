@@ -121,7 +121,7 @@ Modules:
 ```bash
 git clone https://github.com/UCSOLMAZ/PerturbAtlas.git
 cd PerturbAtlas
-pip install -e .
+python -m pip install -e .
 ```
 
 ### Install from PyPI *(coming soon)*
