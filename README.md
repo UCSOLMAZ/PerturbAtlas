@@ -69,7 +69,6 @@ opaque machine-learning predictions.
 
 ## Key Features
 
-  -----------------------------------------------------------------------
   Feature                             Description
   ----------------------------------- -----------------------------------
   Biological program classification   Predicts the dominant
